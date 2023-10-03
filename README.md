@@ -1,4 +1,4 @@
-# week-4-arithmetic-c
+# hb-c-week4-arithmetic
 
 ## 4주차 과제
 
